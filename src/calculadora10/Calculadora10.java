@@ -7,6 +7,10 @@
  * @author iker
  */
 
+/**
+ * @version 1.1
+ */
+
 package calculadora10;
 
 public class Calculadora10 {
