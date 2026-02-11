@@ -1,3 +1,12 @@
+/**
+ * Clase CalculadoraGITXX
+ * 
+ * Permite realizar operaciones matemáticas básicas.
+ * Proyecto de prácticas de Git y GitHub.
+ * 
+ * @author iker
+ */
+
 package calculadora10;
 
 public class Calculadora10 {
